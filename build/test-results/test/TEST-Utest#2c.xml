@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Utest," tests="1" skipped="1" failures="0" errors="0" timestamp="2021-06-25T19:41:36" hostname="CHBOGML-142680" time="0.042">
+  <properties/>
+  <testcase name="search for register option in Utest" classname="Utest," time="0.042">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@34de4eaa
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST PENDING
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@8b27250
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@67e23866
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: search for register option in Utest:Example: {strFirstName=Hollmans, strLastname=Royero, strEmailAddress=hroyero12343@gmail.com, strMonth=number:7, strDay=number:22, strYear=number:1996, strCity=Bogota, strPostal=10010101, strPassword=Contra123#456, strConfirmPassword=Contra123#456, strRegistered=Complete Setup} [Given hollmans wants to register in Utest, When he search for the option to registe and fill the registration form
+| strFirstName | strLastname | strEmailAddress | strMonth | strDay | strYear | strCity | strPostal | strPassword | strConfirmPassword |
+| Hollmans | Royero | hroyero12343@gmail.com | number:7 | number:22 | number:1996 | Bogota | 10010101 | Contra123#456 | Contra123#456 |, Then he registers on the page
+| strRegistered |
+| Complete Setup |]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [search for register option in Utest:Example: {strFirstName=Hollmans, strLastname=Royero, strEmailAddress=hroyero12343@gmail.com, strMonth=number:7, strDay=number:22, strYear=number:1996, strCity=Bogota, strPostal=10010101, strPassword=Contra123#456, strConfirmPassword=Contra123#456, strRegistered=Complete Setup} [Given hollmans wants to register in Utest, When he search for the option to registe and fill the registration form
+| strFirstName | strLastname | strEmailAddress | strMonth | strDay | strYear | strCity | strPostal | strPassword | strConfirmPassword |
+| Hollmans | Royero | hroyero12343@gmail.com | number:7 | number:22 | number:1996 | Bogota | 10010101 | Contra123#456 | Contra123#456 |, Then he registers on the page
+| strRegistered |
+| Complete Setup |]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [search for register option in Utest:Example: {strFirstName=Hollmans, strLastname=Royero, strEmailAddress=hroyero12343@gmail.com, strMonth=number:7, strDay=number:22, strYear=number:1996, strCity=Bogota, strPostal=10010101, strPassword=Contra123#456, strConfirmPassword=Contra123#456, strRegistered=Complete Setup} [Given hollmans wants to register in Utest, When he search for the option to registe and fill the registration form
+| strFirstName | strLastname | strEmailAddress | strMonth | strDay | strYear | strCity | strPostal | strPassword | strConfirmPassword |
+| Hollmans | Royero | hroyero12343@gmail.com | number:7 | number:22 | number:1996 | Bogota | 10010101 | Contra123#456 | Contra123#456 |, Then he registers on the page
+| strRegistered |
+| Complete Setup |]]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: search for register option in Utest
+---------------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
